@@ -54,7 +54,7 @@ The app uses multiple interconnected tables:
 - **Database**: Supabase PostgreSQL
 - **Authentication**: Email/Password
 - **Storage**: Supabase Storage for image handling
-- **State Management**: Provider (or any used by you)
+- **State Management**: Provider 
 
 ---
 
